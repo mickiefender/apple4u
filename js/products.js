@@ -25,10 +25,10 @@ const products = [
     tags: ["phone cover", "accessories", "silicon"],
     colors: ["red", "white", "black", "blue", "yellow"],
     images: [
-      "main-images/accessories/PhoneCover Mockup.jpg",
-      "main-images/accessories/PhoneCovers-3.jpg",
-      "main-images/accessories/PhoneCovers-5.jpg",
-      "main-images/accessories/phoneCovers2.jpg",
+      "accessories/PhoneCover Mockup.jpg",
+      "accessories/PhoneCovers-3.jpg",
+      "accessories/PhoneCovers-5.jpg",
+      "accessories/phoneCovers2.jpg",
     ],
     shortDescription: "Very durable silicon phone cover.",
     description:
@@ -73,7 +73,7 @@ const products = [
     isFeatured: true,
     tags: ["compact", "hatchback", "city"],
     colors: ["white"],
-    images: ["main-images/accessories/earpods-1.jpg", "main-images/accessories/earpods-2.jpg", "main-images/accessories/earpods-3.jpg"],
+    images: ["accessories/earpods-1.jpg", "accessories/earpods-2.jpg", "accessories/earpods-3.jpg"],
     shortDescription: "The first all-electric BMW 7 Series, combining luxury and sustainability.",
     description:
       "The Earpods are designed to deliver high-quality sound in a compact and stylish package. With their sleek design and comfortable fit, they provide an immersive audio experience for music lovers and casual listeners alike. The earpods feature advanced noise cancellation technology, ensuring that you can enjoy your favorite tunes without distractions. They are compatible with a wide range of devices and come with a convenient charging case for on-the-go use.",
@@ -120,9 +120,9 @@ const products = [
     tags: ["charger", "accessories", "USB-C"],
     colors: ["white"],
     images: [
-      "main-images/accessories/USB C charger-1.jpg",
-      "main-images/accessories/USB C charger-2.jpg",
-      "main-images/accessories/USB C charger-3.jpg",
+      "accessories/USB C charger-1.jpg",
+      "accessories/USB C charger-2.jpg",
+      "accessories/USB C charger-3.jpg",
     ],
     shortDescription: "The first all-electric BMW 7 Series, combining luxury and sustainability.",
     description:
@@ -167,9 +167,9 @@ const products = [
     tags: [ "accessories", "earbuds", "wireless"],
     colors: ["gray",  "white"],
     images: [
-      "main-images/accessories/Apple airpod pro-1.jpg",
-      "main-images/accessories/Apple airpod pro-2.jpg",
-      "main-images/accessories/Apple airpod pro-3.jpg",
+      "accessories/Apple airpod pro-1.jpg",
+      "accessories/Apple airpod pro-2.jpg",
+      "accessories/Apple airpod pro-3.jpg",
       
     ],
     shortDescription: "Premium wireless earbuds with active noise cancellation and transparency mode.",
@@ -215,8 +215,8 @@ const products = [
     tags: ["compact", "hatchback", "city"],
     colors: ["gray", "black", "blue", "white"],
     images: [
-      "main-images/phones/iphone 14-2.jpg",
-      "main-images/phones/iphone 14.jpg",
+      "phones/iphone 14-2.jpg",
+      "phones/iphone 14.jpg",
       
       
     ],
@@ -268,9 +268,9 @@ const products = [
     tags: ["laptop", "macbook", "apple"],
     colors: ["silver", "space gray", "gold"],
     images: [
-      "main-images/macBook/macbook air M1-1.jpg",
-      "main-images/macBook/macbook air M1-2.jpg",
-      "main-images/macBook/macbook air M1-3.jpg",
+      "macBook/macbook air M1-1.jpg",
+      "macBook/macbook air M1-2.jpg",
+      "macBook/macbook air M1-3.jpg",
       
     ],
     shortDescription: "Apple's thinnest and lightest laptop with M1 chip.",
@@ -317,9 +317,9 @@ const products = [
     tags: ["laptop", "macbook", "apple"],
     colors: ["silver", "space gray", "gold"],
     images: [
-      "main-images/macBook/macbook air 2017-1.jpg",
-      "main-images/macBook/macbook air 2017-2.jpg",
-      "main-images/macBook/macbook air 2017-3.jpg",
+      "macBook/macbook air 2017-1.jpg",
+      "macBook/macbook air 2017-2.jpg",
+      "macBook/macbook air 2017-3.jpg",
 
     ],
     
@@ -366,9 +366,9 @@ const products = [
     tags: ["laptop", "macbook", "apple", "pro"],
     colors: ["silver", "space gray"],
     images: [
-      "main-images/macBook/Macbook Pro M1-1.jpg",
-      "main-images/macBook/Macbook Pro M1-2.jpg",
-      "main-images/macBook/Macbook Pro M1-2.jpg",
+      "macBook/Macbook Pro M1-1.jpg",
+      "macBook/Macbook Pro M1-2.jpg",
+      "macBook/Macbook Pro M1-2.jpg",
     ],
     shortDescription: "Apple's powerful MacBook Pro with M1 chip for professionals.",
     description:
@@ -414,9 +414,9 @@ const products = [
     tags: ["laptop", "macbook", "apple", "pro"],
     colors: ["silver", "space gray"],
     images: [
-      "main-images/macBook/M2 MacBook Pro-1.jpg",
-      "main-images/macBook/M2 MacBook Pro-2.jpg",
-      "main-images/macBook/M2 MacBook Pro-3.jpg",
+      "macBook/M2 MacBook Pro-1.jpg",
+      "macBook/M2 MacBook Pro-2.jpg",
+      "macBook/M2 MacBook Pro-3.jpg",
     ],
     shortDescription: "Elegant contemporary manor set in idyllic countryside.",
     description:
@@ -463,10 +463,10 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["green"],
     images: [
-      "main-images/phones/iphone 11-green-4.jpg",
-      "main-images/phones/iphone 11-green-1.jpg",
-      "main-images/phones/iphone 11-green-3.jpg",
-      "main-images/phones/iphone 11-green-2.jpg",
+      "phones/iphone 11-green-4.jpg",
+      "phones/iphone 11-green-1.jpg",
+      "phones/iphone 11-green-3.jpg",
+      "phones/iphone 11-green-2.jpg",
     ],
     shortDescription: "Apple's most advanced iPhone with Dynamic Island and A16 Bionic chip.",
     description:
@@ -514,9 +514,9 @@ const products = [
     tags: [],
     colors: ["purple"],
     images: [
-      "main-images/phones/iphone 11 Purple-1.jpg",
-      "main-images/phones/iphone 11 Purple-4.jpg",
-      "main-images/phones/iphone 11 Purple-3.jpg",
+      "phones/iphone 11 Purple-1.jpg",
+      "phones/iphone 11 Purple-4.jpg",
+      "phones/iphone 11 Purple-3.jpg",
     ],
     shortDescription: "Iphone 11 with advanced camera system and A13 Bionic chip.",
     description:
@@ -564,9 +564,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["purple", "black", "white", "red"],
     images: [
-      "main-images/phones/iphone 11-black.jpg",
-      "main-images/phones/iphone 11-mutli-coloured.jpg",
-      "main-images/phones/iphone 11-white.jpg",
+      "phones/iphone 11-black.jpg",
+      "phones/iphone 11-mutli-coloured.jpg",
+      "phones/iphone 11-white.jpg",
     ],
     shortDescription: "Apple's flagship smartphone with advanced camera and A15 Bionic chip.",
     description:
@@ -611,9 +611,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["pink", "teal", "black", "white"],
     images: [
-      "main-images/phones/iphone 16-pink.jpg",
-      "main-images/phones/iphone 16-blue.jpg",
-      "main-images/phones/iphone 16-teal.jpg",
+      "phones/iphone 16-pink.jpg",
+      "phones/iphone 16-blue.jpg",
+      "phones/iphone 16-teal.jpg",
     ],
     shortDescription: "Flagship performance with Hasselblad camera system.",
     description:
@@ -658,9 +658,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["white"],
     images: [
-      "main-images/phones/iphone 11 white-1.jpg",
-      "main-images/phones/iphone 11 white-3.jpg",
-      "main-images/phones/iphone 11 white-2.jpg",
+      "iphone 11 white-1.jpg",
+      "iphone 11 white-3.jpg",
+      "phones/iphone 11 white-2.jpg",
     ],
     shortDescription: "Flagship performance with Hasselblad camera system.",
     description:
@@ -706,8 +706,8 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["red"],
     images: [
-      "main-images/phones/iphone 11 red-1.jpg",
-      "main-images/phones/iphone 11 red-2.jpg",
+      "phones/iphone 11 red-1.jpg",
+      "phones/iphone 11 red-2.jpg",
      
     ],
     shortDescription: "Flagship performance with Hasselblad camera system.",
@@ -754,9 +754,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["pink", "teal", "black", "white"],
     images: [
-      "main-images/phones/11 pro max midnightGreen-1.jpg",
-      "main-images/phones/11 pro max midnightGreen-3.jpg",
-      "main-images/phones/11 pro max midnightGreen-2.jpg",
+      "phones/11 pro max midnightGreen-1.jpg",
+      "phones/11 pro max midnightGreen-3.jpg",
+      "phones/11 pro max midnightGreen-2.jpg",
     ],
     shortDescription: "This iphone 11 pro max features a 6.7-inch AMOLED display with 120Hz refresh rate and LTPO 3.0 technology. Powered by the Snapdragon 8 Gen 2 processor, it delivers exceptional performance for gaming and everyday tasks. The triple camera system co-developed with Hasselblad includes a 50MP main sensor, 48MP ultrawide, and 32MP portrait lens. Additional features include 100W SUPERVOOC fast charging, a 5,000mAh battery, and OxygenOS based on Android 13.",
     description:
@@ -801,9 +801,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["pink", "teal", "black", "white"],
     images: [
-      "main-images/phones/iphone 12White-1.jpg",
-      "main-images/phones/iphone 12White-2.jpg",
-      "main-images/phones/iphone 12White-3.jpg",
+      "phones/iphone 12White-1.jpg",
+      "phones/iphone 12White-2.jpg",
+      "phones/iphone 12White-3.jpg",
     ],
     shortDescription: "Flagship performance with Hasselblad camera system.",
     description:
@@ -849,9 +849,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["green"],
     images: [
-      "main-images/phones/iphone 13 green-1.jpg",
-      "main-images/phones/iphone 13 green-2.jpg",
-      "main-images/phones/iphone 13 green-3.jpg",
+      "phones/iphone 13 green-1.jpg",
+      "phones/iphone 13 green-2.jpg",
+      "phones/iphone 13 green-3.jpg",
     ],
     shortDescription: "The camera system co-developed with Hasselblad includes a 50MP main sensor, 48MP ultrawide, and 32MP portrait lens. Additional features include 100W SUPERVOOC fast charging, a 5,000mAh battery, and OxygenOS based on Android 13.",
     description:
@@ -897,9 +897,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["white"],
     images: [
-      "main-images/phones/iphone 13White-1.jpg",
-      "main-images/phones/iphone 13White-2.jpg",
-      "main-images/phones/iphone 13White-3.jpg",
+      "phones/iphone 13White-1.jpg",
+      "phones/iphone 13White-2.jpg",
+      "phones/iphone 13White-3.jpg",
     ],
     shortDescription: "Flagship performance with Hasselblad camera system.",
     description:
@@ -945,9 +945,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["orange"],
     images: [
-      "main-images/phones/iphone XR orange-3.jpg",
-      "main-images/phones/iphone XR orange-1.jpg",
-      "main-images/phones/iphone XR orange-2.jpg",
+      "phones/iphone XR orange-3.jpg",
+      "phones/iphone XR orange-1.jpg",
+      "phones/iphone XR orange-2.jpg",
     ],
     shortDescription: "Very powerful smartphone with a 6.1-inch Liquid Retina display and A12 Bionic chip.",
     description:
@@ -994,9 +994,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["white"],
     images: [
-      "main-images/phones/iphoneXR-white-3.jpg",
-      "main-images/phones/Iphone XR-White-2.jpg",
-      "main-images/phones/iphone XR-white-1.jpg",
+      "phones/iphoneXR-white-3.jpg",
+      "phones/Iphone XR-White-2.jpg",
+      "phones/iphone XR-white-1.jpg",
     ],
     shortDescription: "Flagship performance with Hasselblad camera system.",
     description:
@@ -1043,9 +1043,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["pink", "teal", "black", "white"],
     images: [
-      "main-images/phones/iphone 12 Green-1.jpg",
-      "main-images/phones/iphone 12 Green-2.jpg",
-      "main-images/phones/iphone 12 Green-3.jpg",
+      "phones/iphone 12 Green-1.jpg",
+      "phones/iphone 12 Green-2.jpg",
+      "phones/iphone 12 Green-3.jpg",
     ],
     shortDescription: "Flagship performance with Hasselblad camera system.",
     description:
@@ -1092,9 +1092,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["red"],
     images: [
-      "main-images/phones/iphone 12Red-1.jpg",
-      "main-images/phones/iphone 12Red-2.jpg",
-      "main-images/phones/iphone 12Red-3.jpg",
+      "phones/iphone 12Red-1.jpg",
+      "phones/iphone 12Red-2.jpg",
+      "phones/iphone 12Red-3.jpg",
     ],
     shortDescription: "Flagship performance with Hasselblad camera system.",
     description:
@@ -1142,9 +1142,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["blue"],
     images: [
-      "main-images/phones/iphone 12Blue-1.jpg",
-      "main-images/phones/iphone 12 Green-2.jpg",
-      "main-images/phones/iphone 12Blue-3.jpg",
+      "phones/iphone 12Blue-1.jpg",
+      "phones/iphone 12 Green-2.jpg",
+      "phones/iphone 12Blue-3.jpg",
     ],
     shortDescription: "Flagship performance with Hasselblad camera system.",
     description:
@@ -1191,9 +1191,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["silver", "navy", "graphite"],
     images: [
-      "main-images/phones/12 pro max graphite-1.jpg",
-      "main-images/phones/12 pro max graphite-2.jpg",
-      "main-images/phones/12 pro max graphite-3.jpg",
+      "phones/12 pro max graphite-1.jpg",
+      "phones/12 pro max graphite-2.jpg",
+      "phones/12 pro max graphite-3.jpg",
     ],
     shortDescription: "Flagship performance with Hasselblad camera system.",
     description:
@@ -1241,9 +1241,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["white"],
     images: [
-      "main-images/phones/12 pro White-1.jpg",
-      "main-images/phones/12 pro-white-2.jpg",
-      "main-images/phones/12 pro-white-3.jpg",
+      "phones/12 pro White-1.jpg",
+      "phones/12 pro-white-2.jpg",
+      "phones/12 pro-white-3.jpg",
     ],
     shortDescription: "Flagship performance with Hasselblad camera system.",
     description:
@@ -1291,9 +1291,9 @@ const products = [
     tags: ["smartphone", "ios", "premium"],
     colors: ["white"],
     images: [
-      "main-images/phones/SE 2nd Gen-white-1.jpg",
-      "main-images/phones/SE 2nd Gen-white-2.jpg",
-      "main-images/phones/SE 2nd Gen-white-3.jpg",
+      "phones/SE 2nd Gen-white-1.jpg",
+      "phones/SE 2nd Gen-white-2.jpg",
+      "phones/SE 2nd Gen-white-3.jpg",
     ],
     shortDescription: "Flagship performance with Hasselblad camera system.",
     description:
@@ -1343,9 +1343,9 @@ const products = [
     tags: ["luxury", "smartwatch", "waterproof"],
     colors: ["black", "blue", "green"],
     images: [
-      "main-images/watches/series 7-black.jpg",
-      "main-images/watches/series 7-back.jpg",
-      "main-images/watches/series 7-white.jpg",
+      "watches/series 7-black.jpg",
+      "watches/series 7-back.jpg",
+      "watches/series 7-white.jpg",
     ],
     shortDescription: "The ultimate smartwatch with advanced health features.",
     description:
@@ -1393,9 +1393,9 @@ const products = [
     tags: ["luxury", "chronograph", "manual"],
     colors: ["black"],
     images: [
-      "main-images/watches/series 6-1.jpg",
-      "main-images/watches/series 6-2.jpg",
-      "main-images/watches/series 6-3.jpg",
+      "watches/series 6-1.jpg",
+      "watches/series 6-2.jpg",
+      "watches/series 6-3.jpg",
     ],
     shortDescription: "The Series 6 is a classic chronograph with a manual-winding movement.",
     description:
@@ -1440,9 +1440,9 @@ const products = [
     tags: ["luxury", "sports", "automatic"],
     colors: ["blue", "green", "white", "black", "orange"],
     images: [
-      "main-images/watches/Apple Watch Ultra.jpg",
-      "main-images/watches/Apple Watch Ultra-black.jpg",
-      "main-images/watches/Apple Watch Ultra-2.jpg",
+      "watches/Apple Watch Ultra.jpg",
+      "watches/Apple Watch Ultra-black.jpg",
+      "watches/Apple Watch Ultra-2.jpg",
     ],
     shortDescription: "One of the most coveted luxury sports watches in the world.",
     description:
@@ -1487,9 +1487,9 @@ const products = [
     tags: ["smartwatch", "sports", "digital"],
     colors: ["titanium"],
     images: [
-      "main-images/watches/Apple Watch Series 8-1.jpg",
-      "main-images/watches/Apple Watch Series 8-2.jpg",
-      "main-images/watches/Apple Watch Series-3.jpg",
+      "watches/Apple Watch Series 8-1.jpg",
+      "watches/Apple Watch Series 8-2.jpg",
+      "watches/Apple Watch Series-3.jpg",
     ],
     shortDescription: "Apple's most rugged and capable smartwatch.",
     description:
